@@ -156,7 +156,7 @@ Am folosit acest model pentru a copia cercuri și pătrate.
 
 
 Rezultatul:
-![Image of program]([https://github.com/apostol21082001/lab2tmps/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.jpg](https://github.com/apostol21082001/lab2tmps/blob/main/rezultat.jpg))
+![Image of program](https://github.com/apostol21082001/lab2tmps/blob/main/rezultat.jpg)
 
 Concluzie:
  Pe parcursul acestei lucrări de laborator, am studiat și implementat creational design pattern, ele simplifică și structurează codul pentru noi.
